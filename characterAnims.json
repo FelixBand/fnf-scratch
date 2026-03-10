@@ -1,0 +1,1344 @@
+{
+    "bf": {
+        "animations": {
+            "idle": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ],
+                "name": "bf-idle"
+            },
+            "singLEFT": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    0,
+                    1
+                ],
+                "name": "bf-left"
+            },
+            "singDOWN": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    0,
+                    1
+                ],
+                "name": "bf-down"
+            },
+            "singUP": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    0,
+                    1
+                ],
+                "name": "bf-up"
+            },
+            "singRIGHT": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    0,
+                    1
+                ],
+                "name": "bf-right"
+            },
+            "singLEFTmiss": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 24,
+                "indices": [
+                    1,
+                    2,
+                    2,
+                    3
+                ],
+                "name": "bf-left"
+            },
+            "singDOWNmiss": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 24,
+                "indices": [
+                    1,
+                    2,
+                    2,
+                    3
+                ],
+                "name": "bf-down"
+            },
+            "singUPmiss": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 24,
+                "indices": [
+                    1,
+                    2,
+                    2,
+                    3
+                ],
+                "name": "bf-up"
+            },
+            "singRIGHTmiss": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 24,
+                "indices": [
+                    1,
+                    2,
+                    2,
+                    3
+                ],
+                "name": "bf-right"
+            },
+            "hey": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    0,
+                    1,
+                    2
+                ],
+                "name": "BF HEY!!"
+            },
+            "firstDeath": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 24,
+                "indices": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    5,
+                    5,
+                    5,
+                    5,
+                    5,
+                    5,
+                    5,
+                    5,
+                    5,
+                    6,
+                    6,
+                    6,
+                    7,
+                    7,
+                    8,
+                    8,
+                    9,
+                    9,
+                    10,
+                    11,
+                    11,
+                    12,
+                    12,
+                    13,
+                    13,
+                    14,
+                    14,
+                    15,
+                    15
+                ],
+                "name": "bf dies"
+            },
+            "deathLoop": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    0,
+                    1,
+                    2,
+                    4
+                ],
+                "name": "bf dead loop"
+            },
+            "deathLoop-twitch": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ],
+                "name": "bf dead loop"
+            }
+        },
+        "position": [
+            0,
+            0
+        ],
+        "healthicon": "bf",
+        "flip_x": true,
+        "camera_position": [
+            100,
+            -65
+        ],
+        "sing_duration": 4,
+        "scale": 1
+    },
+    "dad": {
+        "animations": {
+            "idle": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "name": "dad idle"
+            },
+            "singLEFT": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    0,
+                    1
+                ],
+                "name": "dad left"
+            },
+            "singDOWN": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    0,
+                    1
+                ],
+                "name": "dad down"
+            },
+            "singUP": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    0,
+                    1
+                ],
+                "name": "dad up"
+            },
+            "singRIGHT": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    0,
+                    1
+                ],
+                "name": "dad right"
+            }
+        },
+        "position": [
+            0,
+            -70
+        ],
+        "healthicon": "dad",
+        "flip_x": false,
+        "camera_position": [
+            140,
+            -170
+        ],
+        "sing_duration": 6.1,
+        "scale": 1
+    },
+    "pico": {
+        "animations": {
+            "idle": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 24,
+                "indices": [
+                    0,
+                    0,
+                    1,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "name": "pico-idle"
+            },
+            "singLEFT": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    0,
+                    1
+                ],
+                "name": "pico-singLEFT"
+            },
+            "singDOWN": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    0,
+                    1
+                ],
+                "name": "pico-singDOWN"
+            },
+            "singUP": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    0,
+                    1
+                ],
+                "name": "pico-singUP"
+            },
+            "singRIGHT": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    0,
+                    1
+                ],
+                "name": "pico-singRIGHT"
+            }
+        },
+        "position": [
+            0,
+            70
+        ],
+        "healthicon": "pico",
+        "flip_x": true,
+        "camera_position": [
+            100,
+            -135
+        ],
+        "sing_duration": 4,
+        "scale": 1
+    },
+    "tankman": {
+        "animations": {
+            "idle": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "name": "tankman idle"
+            },
+            "singLEFT": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    0,
+                    1
+                ],
+                "name": "tankman left"
+            },
+            "singDOWN": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    0,
+                    1
+                ],
+                "name": "tankman down"
+            },
+            "singUP": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    0,
+                    1
+                ],
+                "name": "tankman up"
+            },
+            "singRIGHT": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    0,
+                    1
+                ],
+                "name": "tankman right"
+            },
+            "singUP-alt": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "name": "tankman ugh"
+            }
+        },
+        "position": [
+            0,
+            -100
+        ],
+        "healthicon": "tankman",
+        "flip_x": true,
+        "camera_position": [
+            290,
+            0
+        ],
+        "sing_duration": 4,
+        "scale": 1
+    },
+    "turmoil1": {
+        "animations": {
+            "idle": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 24,
+                "indices": [
+                    0,
+                    1,
+                    1,
+                    2,
+                    2,
+                    3,
+                    3,
+                    4,
+                    4,
+                    5
+                ],
+                "name": "turmoil idle"
+            },
+            "singLEFT": {
+                "offsets": [
+                    -40,
+                    2
+                ],
+                "loop": false,
+                "fps": 24,
+                "indices": [
+                    0,
+                    1,
+                    1,
+                    2
+                ],
+                "name": "turmoil left"
+            },
+            "singDOWN": {
+                "offsets": [
+                    15,
+                    -55
+                ],
+                "loop": false,
+                "fps": 24,
+                "indices": [
+                    0,
+                    1,
+                    1,
+                    2
+                ],
+                "name": "turmoil down"
+            },
+            "singUP": {
+                "offsets": [
+                    -14,
+                    55
+                ],
+                "loop": false,
+                "fps": 24,
+                "indices": [
+                    0,
+                    1,
+                    1,
+                    2
+                ],
+                "name": "turmoil up"
+            },
+            "singRIGHT": {
+                "offsets": [
+                    45,
+                    -5
+                ],
+                "loop": false,
+                "fps": 24,
+                "indices": [
+                    0,
+                    1,
+                    1,
+                    2
+                ],
+                "name": "turmoil right"
+            }
+        },
+        "position": [
+            0,
+            0
+        ],
+        "healthicon": "turmoil",
+        "flip_x": false,
+        "camera_position": [
+            100,
+            -65
+        ],
+        "sing_duration": 4,
+        "scale": 1
+    },
+    "mariohorror": {
+        "animations": {
+            "idle": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 24,
+                "indices": [
+                    0,
+                    0,
+                    1,
+                    1,
+                    2,
+                    2,
+                    2,
+                    3,
+                    3,
+                    3,
+                    4,
+                    4,
+                    4,
+                    5
+                ],
+                "name": "MarioIdle"
+            },
+            "singLEFT": {
+                "offsets": [
+                    -150,
+                    -70
+                ],
+                "loop": false,
+                "fps": 24,
+                "indices": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    5,
+                    6,
+                    7,
+                    5,
+                    6,
+                    7
+                ],
+                "name": "MarioLeft"
+            },
+            "singDOWN": {
+                "offsets": [
+                    0,
+                    -115
+                ],
+                "loop": false,
+                "fps": 24,
+                "indices": [
+                    0,
+                    1,
+                    1,
+                    2,
+                    2,
+                    3
+                ],
+                "name": "MarioDown"
+            },
+            "singUP": {
+                "offsets": [
+                    -190,
+                    80
+                ],
+                "loop": false,
+                "fps": 24,
+                "indices": [
+                    0,
+                    1,
+                    1,
+                    2,
+                    2,
+                    3,
+                    3,
+                    4
+                ],
+                "name": "MarioUp"
+            },
+            "singRIGHT": {
+                "offsets": [
+                    233,
+                    -68
+                ],
+                "loop": false,
+                "fps": 24,
+                "indices": [
+                    0,
+                    1,
+                    1,
+                    2,
+                    2,
+                    2,
+                    3
+                ],
+                "name": "MarioRight"
+            }
+        },
+        "position": [
+            0,
+            -200
+        ],
+        "healthicon": "marioex2",
+        "flip_x": false,
+        "camera_position": [
+            100,
+            -20
+        ],
+        "sing_duration": 4,
+        "scale": 1
+    },
+    "gf": {
+        "animations": {
+            "danceLeft": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 24,
+                "indices": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    7,
+                    7,
+                    8,
+                    8,
+                    8,
+                    9
+                ],
+                "name": "GF Dancing Beat"
+            },
+            "danceRight": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 24,
+                "indices": [
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    17,
+                    17,
+                    18,
+                    18,
+                    18,
+                    19
+                ],
+                "name": "GF Dancing Beat"
+            },
+            "singLEFT": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 24,
+                "indices": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    6,
+                    7
+                ],
+                "name": "GF Left"
+            },
+            "singDOWN": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 24,
+                "indices": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ],
+                "name": "GF Down"
+            },
+            "singUP": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 24,
+                "indices": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ],
+                "name": "GF Up"
+            },
+            "singRIGHT": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 24,
+                "indices": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    6,
+                    7
+                ],
+                "name": "GF Right"
+            }
+        },
+        "position": [
+            150,
+            -100
+        ],
+        "healthicon": "gf",
+        "flip_x": false,
+        "camera_position": [
+            100,
+            -200
+        ],
+        "sing_duration": 4,
+        "scale": 1
+    },
+    "spooky": {
+        "animations": {
+            "danceLeft": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    0,
+                    1,
+                    4,
+                    5
+                ],
+                "name": "spookydance"
+            },
+            "danceRight": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "name": "spookydance"
+            },
+            "singLEFT": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    0,
+                    1
+                ],
+                "name": "spookyleft"
+            },
+            "singDOWN": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    0,
+                    1
+                ],
+                "name": "spookydown"
+            },
+            "singUP": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    0,
+                    1
+                ],
+                "name": "spookyup"
+            },
+            "singRIGHT": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    0,
+                    1
+                ],
+                "name": "spookyright"
+            }
+        },
+        "position": [
+            -40,
+            -30
+        ],
+        "healthicon": "spooky",
+        "flip_x": false,
+        "camera_position": [
+            200,
+            -100
+        ],
+        "sing_duration": 4,
+        "scale": 1
+    },
+    "bf-pixel": {
+        "animations": {
+            "idle": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ],
+                "name": "pixelbf idle"
+            },
+            "singLEFT": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    0,
+                    1
+                ],
+                "name": "pixelbf left"
+            },
+            "singDOWN": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    0,
+                    1
+                ],
+                "name": "pixelbf down"
+            },
+            "singUP": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    0,
+                    1
+                ],
+                "name": "pixelbf up"
+            },
+            "singRIGHT": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    0,
+                    1
+                ],
+                "name": "pixelbf right"
+            },
+            "singLEFTmiss": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    0,
+                    1
+                ],
+                "name": "pixelbf left miss"
+            },
+            "singDOWNmiss": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    0,
+                    1
+                ],
+                "name": "pixelbf down miss"
+            },
+            "singUPmiss": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    0,
+                    1
+                ],
+                "name": "pixelbf up miss"
+            },
+            "singRIGHTmiss": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 12,
+                "indices": [
+                    0,
+                    1
+                ],
+                "name": "pixelbf right miss"
+            }
+        },
+        "position": [
+            0,
+            0
+        ],
+        "healthicon": "bf-pixel",
+        "flip_x": true,
+        "camera_position": [
+            100,
+            -65
+        ],
+        "sing_duration": 4,
+        "scale": 6
+    },
+    "gf-pixel": {
+        "animations": {
+            "danceLeft": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 24,
+                "indices": [
+                    0,
+                    0,
+                    1,
+                    1,
+                    1,
+                    2,
+                    2,
+                    2,
+                    2,
+                    3
+                ],
+                "name": "PIXELGF IDLE"
+            },
+            "danceRight": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 24,
+                "indices": [
+                    4,
+                    4,
+                    5,
+                    5,
+                    5,
+                    6,
+                    6,
+                    6,
+                    6,
+                    7,
+                    7,
+                    7,
+                    7,
+                    8
+                ],
+                "name": "PIXELGF IDLE"
+            }
+        },
+        "position": [
+            150,
+            -100
+        ],
+        "healthicon": "gf",
+        "flip_x": false,
+        "camera_position": [
+            100,
+            -200
+        ],
+        "sing_duration": 4,
+        "scale": 6
+    },
+    "betanew": {
+        "animations": {
+            "idle": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 24,
+                "indices": [
+                    0,
+                    0,
+                    1,
+                    1,
+                    2,
+                    2,
+                    2,
+                    3,
+                    3,
+                    3,
+                    4
+                ],
+                "name": "LuigiIdle"
+            },
+            "singLEFT": {
+                "offsets": [
+                    -80,
+                    -5
+                ],
+                "loop": false,
+                "fps": 24,
+                "indices": [
+                    0,
+                    1,
+                    1,
+                    2,
+                    2,
+                    3,
+                    3,
+                    3,
+                    4
+                ],
+                "name": "LuigiLeft"
+            },
+            "singDOWN": {
+                "offsets": [
+                    -28,
+                    -40
+                ],
+                "loop": false,
+                "fps": 24,
+                "indices": [
+                    0,
+                    1,
+                    1,
+                    2,
+                    2,
+                    2,
+                    3,
+                    3,
+                    3,
+                    4
+                ],
+                "name": "LuigiDown"
+            },
+            "singUP": {
+                "offsets": [
+                    -70,
+                    13
+                ],
+                "loop": false,
+                "fps": 24,
+                "indices": [
+                    0,
+                    1,
+                    1,
+                    2,
+                    2,
+                    2,
+                    3,
+                    3,
+                    3,
+                    4
+                ],
+                "name": "LuigiUp"
+            },
+            "singRIGHT": {
+                "offsets": [
+                    70,
+                    -15
+                ],
+                "loop": false,
+                "fps": 24,
+                "indices": [
+                    0,
+                    1,
+                    1,
+                    2,
+                    2,
+                    3,
+                    3,
+                    3,
+                    4
+                ],
+                "name": "LuigiRight"
+            }
+        },
+        "position": [
+            0,
+            -65
+        ],
+        "healthicon": "beta2",
+        "flip_x": false,
+        "camera_position": [
+            100,
+            -20
+        ],
+        "sing_duration": 4,
+        "scale": 1
+    },
+    "gf-tankmen": {
+        "animations": {
+            "danceLeft": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 24,
+                "indices": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    7,
+                    7,
+                    8,
+                    9
+                ],
+                "name": "GF tankmen"
+            },
+            "danceRight": {
+                "offsets": [
+                    0,
+                    0
+                ],
+                "loop": false,
+                "fps": 24,
+                "indices": [
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20,
+                    21
+                ],
+                "name": "GF tankmen"
+            }
+        },
+        "position": [
+            150,
+            -200
+        ],
+        "healthicon": "gf",
+        "flip_x": false,
+        "camera_position": [
+            100,
+            -200
+        ],
+        "sing_duration": 4,
+        "scale": 1
+    }
+}
